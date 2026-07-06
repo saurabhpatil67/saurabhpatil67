@@ -13,7 +13,7 @@ Building AI-powered automation that solves real-world business problems using AI
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/saurabh-patil-65b387268">
+<a href="https://www.linkedin.com/in/saurabh-patil-65b387268/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -159,7 +159,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers restaurant-related q
 
 <p align="center">
 
-<a href="www.linkedin.com/in/saurabh-patil-65b387268">
+<a href="https://www.linkedin.com/in/saurabh-patil-65b387268/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
